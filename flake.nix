@@ -1,5 +1,5 @@
 {
-  description = "Simple Accounts - Web Assembly";
+  description = "Simple Accounts - Wasm";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";

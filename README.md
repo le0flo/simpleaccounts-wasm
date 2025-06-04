@@ -1,4 +1,4 @@
-# Simple Accounts - Web Assembly
+# Simple Accounts - Wasm
 
 ### Installation
 
