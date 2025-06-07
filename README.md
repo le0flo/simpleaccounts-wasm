@@ -1,5 +1,3 @@
 # Simple Accounts - Wasm
 
-### Installation
-
-- *TODO*
+*WIP*
